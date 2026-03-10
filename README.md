@@ -1,4 +1,4 @@
-# Up-Govt-Job-Portal
+# Up Govt Job Portal
 # 🏛️ UpSarkariJob - India's Leading Portal for Latest Government Jobs & Sarkari Result
 
 Welcome to the official GitHub repository of **UpSarkariJob.com**. We are a dedicated platform designed to help millions of job seekers in India find verified and timely information about various government recruitment processes. In today's competitive world, getting the right information at the right time is the key to success, and that is exactly what we provide.
@@ -31,7 +31,7 @@ As a tech-driven portal, we use this GitHub profile to:
 ## 🔗 Stay Connected with Us
 To get instant notifications on your mobile, make sure to follow our official channels:
 *   🌐 **Official Website**: [Visit UpSarkariJob.com](https://upsarkarijob.com)
-*   📢 **Telegram Channel**: [Join for Instant Alerts](#)
+*   📢 **Telegram Channel**: [Join for Instant Alerts](https://t.me/upsarkarijob)
 *   📧 **Business Inquiry**: [upsarkarijobhelp@gmail.com](mailto:upsarkarijobhelp@gmail.com)
 
 ---
